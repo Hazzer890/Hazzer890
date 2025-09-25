@@ -1,31 +1,35 @@
-<h1 align='center'> Harry Cassidy </h1>
+<h1 align="left">Harry Cassidy 🤖</h2>
 
-<p align='center'>
-  I'm a 22-year-old student, academic staff, and robot lover. <br>
-  Perth, Western Australia. <br>
-</p>
+###
 
+<img align="right" height="150" src="https://media.tenor.com/fwrky34J6o8AAAAM/luffy-monkey-d-luffy.gif"  />
 
-<p align='center'>
-  <a href="#">
-    <img src="https://img.shields.io/badge/c++-0180cd.svg?&style=for-the-badge&logo=cplusplus&logoColor=ffffff" />
-  </a>&nbsp;
-  <a href="#">
-    <img src="https://img.shields.io/badge/csharp-239120.svg?&style=for-the-badge&logo=csharp&logoColor=ffffff" />
-  </a>&nbsp;
-  <a href="#">
-    <img src="https://img.shields.io/badge/html5%20-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
-  </a>&nbsp;
-  <a href="#">
-    <img src="https://img.shields.io/badge/After Effects-00005b.svg?&style=for-the-badge&logo=AdobeAfterEffects&logoColor=9999FF" />
-  </a>&nbsp;
-  <a href="#">
-    <img src="https://img.shields.io/badge/Premiere Pro-00005b.svg?&style=for-the-badge&logo=AdobePremierePro&logoColor=9999ff" />
-  </a>&nbsp;
-  <a href="#">
-    <img src="https://img.shields.io/badge/Photoshop-001e36.svg?&style=for-the-badge&logo=AdobePhotoshop&logoColor=31a8ff" />
-  </a>&nbsp;
-  <a href="#">
-    <img src="https://img.shields.io/badge/Illustrator-330000.svg?&style=for-the-badge&logo=AdobeIllustrator&logoColor=ff9a00" />
-  </a>&nbsp;
-</p>
+###
+
+<div align="left">
+  
+  [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=bi46uvrnsg51nmyj4pk7glhux&cover_image=true&theme=novatorem&show_offline=false&background_color=5155d2&interchange=true&bar_color=fafafa&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=bi46uvrnsg51nmyj4pk7glhux&redirect=true)
+  
+</div>
+
+###
+
+<div align="left">
+  <a href="https://www.instagram.com/hazzer890/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="https://discordapp.com/users/245466455624122368" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/harry-cassidy/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/tajlamont/tajlamont/output/snake.svg" alt="Snake animation" />
+
+###
