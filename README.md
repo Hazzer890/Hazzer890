@@ -33,3 +33,5 @@
 <img src="https://raw.githubusercontent.com/tajlamont/tajlamont/output/snake.svg" alt="Snake animation" />
 
 ###
+
+<!-- this comment is rom the group here at the workshop -->
