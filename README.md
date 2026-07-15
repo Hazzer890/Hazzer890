@@ -1,16 +1,10 @@
-<h1 align="left">Harry Cassidy 🤖</h2>
+<h1 align="left">Harry Cassidy</h2>
 
 ###
 
-<img align="right" height="150" src="https://media.tenor.com/fwrky34J6o8AAAAM/luffy-monkey-d-luffy.gif"  />
+<br clear="both">
 
-###
-
-<div align="left">
-  
-  [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=bi46uvrnsg51nmyj4pk7glhux&cover_image=true&theme=novatorem&show_offline=false&background_color=5155d2&interchange=true&bar_color=fafafa&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=bi46uvrnsg51nmyj4pk7glhux&redirect=true)
-  
-</div>
+<img src="https://raw.githubusercontent.com/Hazzer890/Hazzer890/output/snake.svg" alt="Snake animation" />
 
 ###
 
@@ -28,8 +22,3 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Hazzer890/Hazzer890/output/snake.svg" alt="Snake animation" />
-
-###
